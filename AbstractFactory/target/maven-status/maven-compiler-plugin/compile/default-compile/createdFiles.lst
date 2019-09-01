@@ -1,0 +1,11 @@
+exemplo/fabrica/abstrata/BateriaBoa.class
+exemplo/fabrica/abstrata/CameraBoa.class
+exemplo/fabrica/abstrata/FactoryFactory.class
+exemplo/fabrica/abstrata/Celular.class
+exemplo/fabrica/abstrata/BateriaRuim.class
+exemplo/fabrica/abstrata/IPhone.class
+exemplo/fabrica/abstrata/Camera.class
+exemplo/fabrica/abstrata/CameraMaisOuMenos.class
+exemplo/fabrica/abstrata/CelularFactory.class
+exemplo/fabrica/abstrata/Bateria.class
+exemplo/fabrica/abstrata/Xiomi.class
